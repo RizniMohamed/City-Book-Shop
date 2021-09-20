@@ -1,0 +1,95 @@
+
+
+#minimize:hover	{-fx-fill : white;}
+
+#maximize:hover	{-fx-fill : white;}
+
+#close:hover	{-fx-fill : white;}
+
+#btnTransaction {
+	-fx-text-fill :  #d0cece;
+	-fx-background-color :  #333F50;
+	-fx-background-radius : 20;
+	-fx-effect :  dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+	
+} 
+
+#btnTransaction:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}
+
+#btnInvoice {
+	-fx-text-fill		 :  #d0cece;
+	-fx-background-color :   #333F50;
+	-fx-background-radius : 20;
+	-fx-effect :  dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+} 
+
+#btnInvoice:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}
+
+#btnBook {
+	-fx-text-fill		 :  #d0cece;
+	-fx-background-color :   #333F50;
+	-fx-background-radius : 20;
+	-fx-effect :  dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+} 
+
+#btnBook:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}
+
+#btnLogout {
+	-fx-text-fill :  #d0cece;
+	-fx-background-color :  #333F50;
+	-fx-background-radius : 20;
+	-fx-effect :  dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+	
+} 
+
+#btnLogout:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}
+
+#btnStatistics {
+	-fx-text-fill :  #d0cece;
+	-fx-background-color :  #333F50;
+	-fx-background-radius : 20;
+	-fx-effect :  dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+	
+} 
+
+#btnStatistics:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}
+
+#btnAccount {
+	-fx-text-fill :  #d0cece;
+	-fx-background-color :  #333F50;
+	-fx-background-radius : 20;
+	-fx-effect :  dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+	
+} 
+
+#btnAccount:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}

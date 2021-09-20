@@ -1,0 +1,20 @@
+
+#minimizeIcon:hover	{-fx-fill : white;}
+
+#maximizeIcon:hover	{-fx-fill : white;}
+
+#closeIcon:hover	{-fx-fill : white;}
+
+#btnLogin			{
+	-fx-background-color : #222A35 ;
+	-fx-text-fill		 : #d0cece ;
+}
+
+#lblForgetPass:hover{-fx-text-fill: #238de3;}
+
+#btnLogin:hover		{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}

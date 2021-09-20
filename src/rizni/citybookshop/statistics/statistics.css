@@ -1,0 +1,145 @@
+
+#minimize:hover	{-fx-fill : white;}
+
+#maximize:hover	{-fx-fill : white;}
+
+#close:hover	{-fx-fill : white;}
+
+#btnDashboard {
+	-fx-text-fill		 :  #d0cece;
+	-fx-background-color : #222A35;
+} 
+
+#btnDashboard:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}
+
+
+#btnTransaction {
+	-fx-text-fill :  #d0cece;
+	-fx-background-color : #222A35;
+	
+} 
+
+#btnTransaction:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}
+
+#btnInvoice {
+	-fx-text-fill		 :  #d0cece;
+	-fx-background-color : #222A35;
+} 
+
+#btnInvoice:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}
+
+#btnBooks {
+	-fx-text-fill		 :  #d0cece;
+	-fx-background-color : #222A35;
+} 
+
+#btnBooks:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}
+
+#btnAccount {
+	-fx-text-fill		 :  #d0cece;
+	-fx-background-color : #222A35;
+} 
+
+#btnAccount:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}
+
+
+#btnStatistics {
+	-fx-text-fill 		 :  #d0cece;
+	-fx-background-color :  #8497B0;
+} 
+
+#btnStatistics:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}
+
+#btnLogout {
+	-fx-text-fill 		 :  #d0cece;
+	-fx-background-color : #222A35;
+	
+} 
+
+#btnLogout:hover{
+   
+    -fx-background-color	: #238de3 ;
+    -fx-text-fill			: black ;
+    -fx-cursor				: hand ;
+}
+
+#pieDaySales{
+
+	-fx-background-color	: #8FAADC; 
+	-fx-font-size			: 13;
+	-fx-effect				: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0)
+}
+
+#pieBooks{
+
+	-fx-background-color	: #8FAADC; 
+	-fx-font-size			: 13;
+	-fx-effect				: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0)
+}
+
+#pieDaySales{
+
+	-fx-background-color	: #8FAADC; 
+	-fx-font-size			: 13;
+	-fx-effect				: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0)
+}
+
+#lineMonth{
+
+	-fx-background-color	: #8FAADC; 
+	-fx-font-size			: 13;
+	-fx-effect				: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0)
+}
+
+
+.chart-pie-label-line{
+	-fx-stroke:  red;
+	-fx-fill : red;
+}
+
+.chart-pie-label {
+	-fx-fill 				: red;
+}
+.chart-legend {
+	-fx-background-color 	: #8FAADC;
+	
+	-fx-stroke-borders:  red;
+}
+
+.date-picker > .text-field {
+    -fx-background-color:
+        linear-gradient(to bottom, derive(-fx-text-box-border, -10%), -fx-text-box-border),
+        linear-gradient(from 0px 0px to 0px 5px, derive(-fx-control-inner-background, -9%), -fx-control-inner-background);
+    -fx-background-insets: 1 0 1 1;
+    -fx-background-radius: 2 0 0 2;
+}
